@@ -15,9 +15,15 @@ Repositorio del Proyecto de la Fase Final del Curso de Data Science de BEDU.
 
 ## Proyecto:
 
+https://github.com/RubenD-hub/Proyecto_Machine_Learning_Python/blob/main/ml_proyecto_equipo_9.ipynb
+
 ## Dataset:
 
+https://github.com/RubenD-hub/Proyecto_Machine_Learning_Python/blob/main/Files/enfermedades_cardiovasculares.csv
+
 ## Documentación Dataset:
+
+https://github.com/RubenD-hub/Proyecto_Machine_Learning_Python/blob/main/documentacion_dataset.pdf
 
 ## Video del Módulo:
 
@@ -54,4 +60,4 @@ El riesgo cardiovascular se define como la probabilidad de padecer un evento car
 - 6 variables numéricas (edad, estatura, peso, imc, presión sistólica y presión diastólica).
 - 7 variables categóricas (género, colesterol, glucosa, tabaco, alcohol, actividad física y enfermedad cardiovascular).
 
-<p><img src="https://raw.githubusercontent.com/IsmaelOr/BEDU_MachineLearning_Equipo9/main/Files/descarga.png" align="center"/></p>
+<p><img src="https://github.com/RubenD-hub/Proyecto_Machine_Learning_Python/blob/main/Files/descarga.png?raw=true" align="center"/></p>
